@@ -1,0 +1,15 @@
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\bin\Debug\netcoreapp3.1\Interfejs.exe
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\bin\Debug\netcoreapp3.1\Interfejs.deps.json
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\bin\Debug\netcoreapp3.1\Interfejs.runtimeconfig.json
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\bin\Debug\netcoreapp3.1\Interfejs.runtimeconfig.dev.json
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\bin\Debug\netcoreapp3.1\Interfejs.dll
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\bin\Debug\netcoreapp3.1\Interfejs.pdb
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\obj\Debug\netcoreapp3.1\Interfejs.csprojAssemblyReference.cache
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\obj\Debug\netcoreapp3.1\Interfejs.Form1.resources
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\obj\Debug\netcoreapp3.1\Interfejs.csproj.GenerateResource.cache
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\obj\Debug\netcoreapp3.1\Interfejs.AssemblyInfoInputs.cache
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\obj\Debug\netcoreapp3.1\Interfejs.AssemblyInfo.cs
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\obj\Debug\netcoreapp3.1\Interfejs.csproj.CoreCompileInputs.cache
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\obj\Debug\netcoreapp3.1\Interfejs.dll
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\obj\Debug\netcoreapp3.1\Interfejs.pdb
+C:\Users\CzCzN\source\repos\Interfejs\Interfejs\obj\Debug\netcoreapp3.1\Interfejs.genruntimeconfig.cache
