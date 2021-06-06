@@ -1,0 +1,6 @@
+D:\Studia\visual\PZ_SERVER\PZ_SERVER_LIBRARY\bin\Debug\PZ_SERVER_LIBRARY.dll
+D:\Studia\visual\PZ_SERVER\PZ_SERVER_LIBRARY\bin\Debug\PZ_SERVER_LIBRARY.pdb
+D:\Studia\visual\PZ_SERVER\PZ_SERVER_LIBRARY\obj\Debug\PZ_SERVER_LIBRARY.csprojAssemblyReference.cache
+D:\Studia\visual\PZ_SERVER\PZ_SERVER_LIBRARY\obj\Debug\PZ_SERVER_LIBRARY.csproj.CoreCompileInputs.cache
+D:\Studia\visual\PZ_SERVER\PZ_SERVER_LIBRARY\obj\Debug\PZ_SERVER_LIBRARY.dll
+D:\Studia\visual\PZ_SERVER\PZ_SERVER_LIBRARY\obj\Debug\PZ_SERVER_LIBRARY.pdb
